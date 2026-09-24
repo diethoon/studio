@@ -26,13 +26,8 @@ async function startServer() {
 
   // Helper to map and validate requested model names to supported Gemini endpoints safely
   function getModelName(requestedModel: string | undefined): string {
-    const model = requestedModel || 'gemini-2.5-flash';
-    // Map experimental or future versions request safely to available high speed endpoints or pass through
-    if (model.includes('3.1') || model.includes('3.5') || model.includes('3.6') || model.includes('3.7') || model.includes('3.8')) {
-      // In current Gemini SDK preview, standard high performance flash is 'gemini-2.5-flash'
-      return 'gemini-2.5-flash';
-    }
-    return model;
+    // Avoid legacy 2.5 models; default to gemini-3.5-flash or requested model exactly
+    return requestedModel || 'gemini-3.5-flash';
   }
 
   // Server-Side endpoint for recipe generation
