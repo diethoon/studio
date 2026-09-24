@@ -1,0 +1,108 @@
+[
+  {
+    "id": "cat-weight",
+    "name": "체중 관리",
+    "slug": "weight-management",
+    "parentIds": [],
+    "type": "goal",
+    "sortOrder": 10,
+    "status": "published"
+  },
+  {
+    "id": "cat-aging",
+    "name": "건강한 식사",
+    "slug": "healthy-aging",
+    "parentIds": [],
+    "type": "goal",
+    "sortOrder": 20,
+    "status": "published"
+  },
+  {
+    "id": "cat-protein",
+    "name": "고단백",
+    "slug": "high-protein",
+    "parentIds": [],
+    "type": "goal",
+    "sortOrder": 30,
+    "status": "published"
+  },
+  {
+    "id": "cat-quick",
+    "name": "빠른 조리",
+    "slug": "quick-cooking",
+    "parentIds": [],
+    "type": "constraint",
+    "sortOrder": 40,
+    "status": "published"
+  },
+  {
+    "id": "cuisine-korean",
+    "name": "한식",
+    "slug": "korean",
+    "parentIds": [
+      "cat-weight",
+      "cat-aging",
+      "cat-protein",
+      "cat-quick"
+    ],
+    "type": "cuisine",
+    "sortOrder": 10,
+    "status": "published"
+  },
+  {
+    "id": "cuisine-chinese",
+    "name": "중식",
+    "slug": "chinese",
+    "parentIds": [
+      "cat-weight",
+      "cat-aging",
+      "cat-protein",
+      "cat-quick"
+    ],
+    "type": "cuisine",
+    "sortOrder": 20,
+    "status": "published"
+  },
+  {
+    "id": "cuisine-japanese",
+    "name": "일식",
+    "slug": "japanese",
+    "parentIds": [
+      "cat-weight",
+      "cat-aging",
+      "cat-protein",
+      "cat-quick"
+    ],
+    "type": "cuisine",
+    "sortOrder": 30,
+    "status": "published"
+  },
+  {
+    "id": "cuisine-western",
+    "name": "양식",
+    "slug": "western",
+    "parentIds": [
+      "cat-weight",
+      "cat-aging",
+      "cat-protein",
+      "cat-quick"
+    ],
+    "type": "cuisine",
+    "sortOrder": 40,
+    "status": "published"
+  },
+  {
+    "id": "cuisine-southeast-asian",
+    "name": "동남아식",
+    "slug": "southeast-asian",
+    "parentIds": [
+      "cat-weight",
+      "cat-aging",
+      "cat-protein",
+      "cat-quick"
+    ],
+    "type": "cuisine",
+    "sortOrder": 50,
+    "status": "published"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "Diet Recipe Studio",
+  "description": "Find food worth cooking — explore healthy recipes, nutrition profiles, and ingredient guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

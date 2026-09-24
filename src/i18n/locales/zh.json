@@ -1,0 +1,48 @@
+{
+  "common": {
+    "minutesShort": "分钟"
+  },
+  "search": {
+    "placeholder": "搜索食物、食材或想吃的东西",
+    "clear": "清除搜索",
+    "title": "搜索",
+    "results": "搜索结果",
+    "forQuery": "“{query}”的搜索结果",
+    "noMatching": "没有符合条件的食谱",
+    "startSearch": "开始搜索",
+    "repositorySource": "结果来自当前连接的内容存储库。"
+  },
+  "home": {
+    "eyebrow": "EAT WELL / LIVE WELL",
+    "heroTitle": "找到值得动手做的料理。",
+    "heroDescription": "在一个流畅的体验中探索食谱、营养和食材。",
+    "explore": "Explore",
+    "recipesNow": "现在就适合做的食谱",
+    "catalogDescription": "从会随数据自然扩展的目录中探索食谱、营养和食材。",
+    "noRecipes": "还没有食谱",
+    "connectRepository": "连接内容存储库后即可开始展示真实食谱。",
+    "refresh": "刷新"
+  },
+  "recipe": {
+    "title": "食谱",
+    "notFound": "未找到食谱",
+    "unavailable": "当前内容存储库中无法使用此食谱。",
+    "time": "烹饪时间",
+    "servings": "份量",
+    "ingredients": "食材",
+    "method": "做法",
+    "nutrition": "营养",
+    "verified": "已验证",
+    "estimated": "估算",
+    "save": "收藏",
+    "saved": "已收藏",
+    "unsave": "取消收藏"
+  },
+  "saved": {
+    "nav": "收藏",
+    "title": "收藏的食谱",
+    "description": "把想再次制作的食谱集中收藏起来。",
+    "emptyTitle": "还没有收藏的食谱",
+    "emptyDescription": "点击食谱上的心形按钮，就能在这里再次找到它。"
+  }
+}

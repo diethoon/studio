@@ -1,0 +1,130 @@
+[
+  {
+    "id": "ing-tofu",
+    "name": "두부",
+    "canonicalName": "두부",
+    "aliases": [
+      "콩두부"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "ing-egg",
+    "name": "계란",
+    "canonicalName": "계란",
+    "aliases": [
+      "달걀"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "ing-mushroom",
+    "name": "버섯",
+    "canonicalName": "버섯",
+    "aliases": [
+      "혼합버섯"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "ing-brown-rice",
+    "name": "현미밥",
+    "canonicalName": "현미밥",
+    "aliases": [
+      "현미"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "ing-salmon",
+    "name": "연어",
+    "canonicalName": "연어",
+    "aliases": [],
+    "status": "published"
+  },
+  {
+    "id": "ing-cabbage",
+    "name": "양배추",
+    "canonicalName": "양배추",
+    "aliases": [],
+    "status": "published"
+  },
+  {
+    "id": "ing-pork",
+    "name": "돼지 안심",
+    "canonicalName": "돼지 안심",
+    "aliases": [
+      "돼지고기 안심"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "ing-chicken",
+    "name": "닭다리살",
+    "canonicalName": "닭다리살",
+    "aliases": [
+      "닭고기"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "ing-beef",
+    "name": "소고기",
+    "canonicalName": "소고기",
+    "aliases": [
+      "소고기 안심"
+    ],
+    "status": "published"
+  },
+  {
+    "id": "ing-shrimp",
+    "name": "새우",
+    "canonicalName": "새우",
+    "aliases": [],
+    "status": "published"
+  },
+  {
+    "id": "ing-broccoli",
+    "name": "브로콜리",
+    "canonicalName": "브로콜리",
+    "aliases": [],
+    "status": "published"
+  },
+  {
+    "id": "ing-spinach",
+    "name": "시금치",
+    "canonicalName": "시금치",
+    "aliases": [],
+    "status": "published"
+  },
+  {
+    "id": "ing-onion",
+    "name": "양파",
+    "canonicalName": "양파",
+    "aliases": [],
+    "status": "published"
+  },
+  {
+    "id": "ing-green-onion",
+    "name": "대파",
+    "canonicalName": "대파",
+    "aliases": [],
+    "status": "published"
+  },
+  {
+    "id": "ing-garlic",
+    "name": "마늘",
+    "canonicalName": "마늘",
+    "aliases": [],
+    "status": "published"
+  },
+  {
+    "id": "ing-olive-oil",
+    "name": "올리브오일",
+    "canonicalName": "올리브오일",
+    "aliases": [
+      "올리브유"
+    ],
+    "status": "published"
+  }
+]

@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-space {
+    font-family: 'Space Grotesk', 'Noto Sans KR', sans-serif;
+  }
+}
+
+/* Global Hip Smooth Touch adjustments */
+html {
+  background-color: #0F111A;
+  color: #F3F4F6;
+  font-family: 'Plus Jakarta Sans', 'Noto Sans KR', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom subtle glass-like scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #0F111A;
+}
+::-webkit-scrollbar-thumb {
+  background: #23283E;
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #D2FF24;
+}
+
+/* Glassmorphism utility card glows */
+.glass-glow {
+  background: rgba(30, 34, 53, 0.4);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}

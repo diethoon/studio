@@ -1,0 +1,48 @@
+{
+  "common": {
+    "minutesShort": "min"
+  },
+  "search": {
+    "placeholder": "Search food, ingredients, or anything you want to eat",
+    "clear": "Clear search",
+    "title": "Search",
+    "results": "Search results",
+    "forQuery": "for “{query}”",
+    "noMatching": "No matching recipes",
+    "startSearch": "Start with a search",
+    "repositorySource": "Results are sourced from the connected content repository."
+  },
+  "home": {
+    "eyebrow": "EAT WELL / LIVE WELL",
+    "heroTitle": "Find food worth cooking.",
+    "heroDescription": "Discover recipes, nutrition, and ingredients in one clean flow.",
+    "explore": "Explore",
+    "recipesNow": "Recipes for right now",
+    "catalogDescription": "Explore recipes, nutrition, and ingredients through a catalog that grows with the data.",
+    "noRecipes": "No recipes yet",
+    "connectRepository": "Connect the content repository to start rendering real recipes.",
+    "refresh": "Refresh"
+  },
+  "recipe": {
+    "title": "Recipe",
+    "notFound": "Recipe not found",
+    "unavailable": "This recipe is not available in the current content repository.",
+    "time": "Time",
+    "servings": "Servings",
+    "ingredients": "Ingredients",
+    "method": "Method",
+    "nutrition": "Nutrition",
+    "verified": "VERIFIED",
+    "estimated": "ESTIMATED",
+    "save": "Favorite",
+    "saved": "Favorited",
+    "unsave": "Remove from favorites"
+  },
+  "saved": {
+    "nav": "Favorites",
+    "title": "Favorite recipes",
+    "description": "Keep the recipes you want to make again in one place.",
+    "emptyTitle": "No favorite recipes yet",
+    "emptyDescription": "Tap the heart on a recipe to keep it here for later."
+  }
+}

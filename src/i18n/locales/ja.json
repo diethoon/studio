@@ -1,0 +1,48 @@
+{
+  "common": {
+    "minutesShort": "分"
+  },
+  "search": {
+    "placeholder": "料理、食材、食べたいものを検索",
+    "clear": "検索をクリア",
+    "title": "検索",
+    "results": "検索結果",
+    "forQuery": "「{query}」の検索結果",
+    "noMatching": "一致するレシピがありません",
+    "startSearch": "検索を始めましょう",
+    "repositorySource": "結果は接続されているコンテンツリポジトリを基にしています。"
+  },
+  "home": {
+    "eyebrow": "EAT WELL / LIVE WELL",
+    "heroTitle": "作りたい料理を見つけよう。",
+    "heroDescription": "レシピ、栄養情報、食材をひとつの流れで探せます。",
+    "explore": "Explore",
+    "recipesNow": "今作りたいレシピ",
+    "catalogDescription": "データが増えても自然に広がるカタログからレシピや食材を探せます。",
+    "noRecipes": "まだレシピがありません",
+    "connectRepository": "コンテンツリポジトリを接続すると実際のレシピが表示されます。",
+    "refresh": "更新"
+  },
+  "recipe": {
+    "title": "レシピ",
+    "notFound": "レシピが見つかりません",
+    "unavailable": "現在のコンテンツリポジトリではこのレシピを利用できません。",
+    "time": "調理時間",
+    "servings": "人数",
+    "ingredients": "材料",
+    "method": "作り方",
+    "nutrition": "栄養",
+    "verified": "検証済み",
+    "estimated": "推定",
+    "save": "お気に入り",
+    "saved": "お気に入り済み",
+    "unsave": "お気に入りから削除"
+  },
+  "saved": {
+    "nav": "お気に入り",
+    "title": "お気に入りレシピ",
+    "description": "また作りたいレシピをここにまとめておけます。",
+    "emptyTitle": "お気に入りのレシピはまだありません",
+    "emptyDescription": "レシピのハートボタンを押すと、ここからいつでも見つけられます。"
+  }
+}

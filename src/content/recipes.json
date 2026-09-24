@@ -1,0 +1,901 @@
+[
+  {
+    "id": "recipe-tofu-mushroom-bowl",
+    "title": "두부 버섯 덮밥",
+    "description": "담백한 두부와 버섯을 가볍게 볶아 현미밥과 함께 먹는 한 그릇 요리.",
+    "heroMediaUrl": null,
+    "servingCount": 1,
+    "cookingTimeMinutes": 15,
+    "difficulty": "easy",
+    "nutrition": {
+      "basis": "per_serving",
+      "quality": "estimated",
+      "source": "fixture",
+      "facts": [
+        {
+          "code": "energy",
+          "label": "Calories",
+          "value": 480,
+          "unit": "kcal"
+        },
+        {
+          "code": "protein",
+          "label": "Protein",
+          "value": 28,
+          "unit": "g"
+        },
+        {
+          "code": "carbohydrate",
+          "label": "Carbs",
+          "value": 48,
+          "unit": "g"
+        },
+        {
+          "code": "fat",
+          "label": "Fat",
+          "value": 19,
+          "unit": "g"
+        },
+        {
+          "code": "fiber",
+          "label": "Fiber",
+          "value": 8,
+          "unit": "g"
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "ingredientId": "ing-tofu",
+        "amount": 180,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-mushroom",
+        "amount": 120,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-brown-rice",
+        "amount": 150,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-green-onion",
+        "amount": 20,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-garlic",
+        "amount": 5,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      }
+    ],
+    "categoryIds": [
+      "cat-weight",
+      "cat-protein",
+      "cat-quick",
+      "cuisine-korean"
+    ],
+    "tagIds": [
+      "balanced",
+      "one-bowl"
+    ],
+    "status": "published",
+    "instructions": [
+      {
+        "step": 1,
+        "text": "두부와 버섯을 한입 크기로 준비한다."
+      },
+      {
+        "step": 2,
+        "text": "팬에 재료를 볶아 향을 낸 뒤 간을 맞춘다."
+      },
+      {
+        "step": 3,
+        "text": "따뜻한 현미밥 위에 올리고 대파를 곁들인다."
+      }
+    ]
+  },
+  {
+    "id": "recipe-salmon-cabbage",
+    "title": "연어 양배추 간장구이",
+    "description": "연어의 풍미와 아삭한 양배추를 한 팬에서 완성하는 간단한 구이.",
+    "heroMediaUrl": null,
+    "servingCount": 1,
+    "cookingTimeMinutes": 18,
+    "difficulty": "easy",
+    "nutrition": {
+      "basis": "per_serving",
+      "quality": "estimated",
+      "source": "fixture",
+      "facts": [
+        {
+          "code": "energy",
+          "label": "Calories",
+          "value": 520,
+          "unit": "kcal"
+        },
+        {
+          "code": "protein",
+          "label": "Protein",
+          "value": 34,
+          "unit": "g"
+        },
+        {
+          "code": "carbohydrate",
+          "label": "Carbs",
+          "value": 17,
+          "unit": "g"
+        },
+        {
+          "code": "fat",
+          "label": "Fat",
+          "value": 31,
+          "unit": "g"
+        },
+        {
+          "code": "fiber",
+          "label": "Fiber",
+          "value": 5,
+          "unit": "g"
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "ingredientId": "ing-salmon",
+        "amount": 160,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-cabbage",
+        "amount": 160,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-onion",
+        "amount": 60,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-garlic",
+        "amount": 5,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      }
+    ],
+    "categoryIds": [
+      "cat-weight",
+      "cat-aging",
+      "cat-protein",
+      "cuisine-japanese"
+    ],
+    "tagIds": [
+      "one-pan",
+      "omega-3"
+    ],
+    "status": "published",
+    "instructions": [
+      {
+        "step": 1,
+        "text": "연어와 양배추를 먹기 좋은 크기로 준비한다."
+      },
+      {
+        "step": 2,
+        "text": "팬에 연어를 익힌 뒤 양배추와 양파를 넣는다."
+      },
+      {
+        "step": 3,
+        "text": "간장 베이스로 가볍게 마무리한다."
+      }
+    ]
+  },
+  {
+    "id": "recipe-pork-sprout-stir-fry",
+    "title": "돼지 안심 숙주 볶음",
+    "description": "살코기와 숙주의 식감을 살려 빠르게 볶아내는 단백질 중심 메뉴.",
+    "heroMediaUrl": null,
+    "servingCount": 1,
+    "cookingTimeMinutes": 12,
+    "difficulty": "easy",
+    "nutrition": {
+      "basis": "per_serving",
+      "quality": "estimated",
+      "source": "fixture",
+      "facts": [
+        {
+          "code": "energy",
+          "label": "Calories",
+          "value": 430,
+          "unit": "kcal"
+        },
+        {
+          "code": "protein",
+          "label": "Protein",
+          "value": 36,
+          "unit": "g"
+        },
+        {
+          "code": "carbohydrate",
+          "label": "Carbs",
+          "value": 15,
+          "unit": "g"
+        },
+        {
+          "code": "fat",
+          "label": "Fat",
+          "value": 24,
+          "unit": "g"
+        },
+        {
+          "code": "fiber",
+          "label": "Fiber",
+          "value": 4,
+          "unit": "g"
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "ingredientId": "ing-pork",
+        "amount": 160,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-onion",
+        "amount": 60,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-green-onion",
+        "amount": 30,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-garlic",
+        "amount": 6,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      }
+    ],
+    "categoryIds": [
+      "cat-protein",
+      "cat-quick",
+      "cuisine-korean"
+    ],
+    "tagIds": [
+      "high-protein",
+      "stir-fry"
+    ],
+    "status": "published",
+    "instructions": [
+      {
+        "step": 1,
+        "text": "돼지 안심을 얇게 썬다."
+      },
+      {
+        "step": 2,
+        "text": "센 불에서 고기를 먼저 익힌다."
+      },
+      {
+        "step": 3,
+        "text": "양파와 대파를 넣고 빠르게 볶아 마무리한다."
+      }
+    ]
+  },
+  {
+    "id": "recipe-chicken-broccoli",
+    "title": "닭다리살 브로콜리 레몬볶음",
+    "description": "닭다리살의 풍미에 브로콜리와 레몬향을 더한 빠른 팬 요리.",
+    "heroMediaUrl": null,
+    "servingCount": 1,
+    "cookingTimeMinutes": 14,
+    "difficulty": "easy",
+    "nutrition": {
+      "basis": "per_serving",
+      "quality": "estimated",
+      "source": "fixture",
+      "facts": [
+        {
+          "code": "energy",
+          "label": "Calories",
+          "value": 510,
+          "unit": "kcal"
+        },
+        {
+          "code": "protein",
+          "label": "Protein",
+          "value": 38,
+          "unit": "g"
+        },
+        {
+          "code": "carbohydrate",
+          "label": "Carbs",
+          "value": 16,
+          "unit": "g"
+        },
+        {
+          "code": "fat",
+          "label": "Fat",
+          "value": 30,
+          "unit": "g"
+        },
+        {
+          "code": "fiber",
+          "label": "Fiber",
+          "value": 7,
+          "unit": "g"
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "ingredientId": "ing-chicken",
+        "amount": 170,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-broccoli",
+        "amount": 140,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-garlic",
+        "amount": 6,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-olive-oil",
+        "amount": 8,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      }
+    ],
+    "categoryIds": [
+      "cat-weight",
+      "cat-protein",
+      "cat-quick",
+      "cuisine-western"
+    ],
+    "tagIds": [
+      "high-protein",
+      "one-pan"
+    ],
+    "status": "published",
+    "instructions": [
+      {
+        "step": 1,
+        "text": "닭다리살과 브로콜리를 준비한다."
+      },
+      {
+        "step": 2,
+        "text": "닭다리살을 먼저 익히고 브로콜리를 더한다."
+      },
+      {
+        "step": 3,
+        "text": "마늘과 오일로 향을 입혀 마무리한다."
+      }
+    ]
+  },
+  {
+    "id": "recipe-beef-spinach-bowl",
+    "title": "소고기 시금치 간장볼",
+    "description": "부드러운 소고기와 시금치를 가볍게 볶아 밥과 곁들이는 균형식.",
+    "heroMediaUrl": null,
+    "servingCount": 1,
+    "cookingTimeMinutes": 17,
+    "difficulty": "easy",
+    "nutrition": {
+      "basis": "per_serving",
+      "quality": "estimated",
+      "source": "fixture",
+      "facts": [
+        {
+          "code": "energy",
+          "label": "Calories",
+          "value": 495,
+          "unit": "kcal"
+        },
+        {
+          "code": "protein",
+          "label": "Protein",
+          "value": 33,
+          "unit": "g"
+        },
+        {
+          "code": "carbohydrate",
+          "label": "Carbs",
+          "value": 39,
+          "unit": "g"
+        },
+        {
+          "code": "fat",
+          "label": "Fat",
+          "value": 22,
+          "unit": "g"
+        },
+        {
+          "code": "fiber",
+          "label": "Fiber",
+          "value": 6,
+          "unit": "g"
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "ingredientId": "ing-beef",
+        "amount": 150,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-spinach",
+        "amount": 100,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-brown-rice",
+        "amount": 130,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-green-onion",
+        "amount": 20,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      }
+    ],
+    "categoryIds": [
+      "cat-aging",
+      "cat-protein",
+      "cuisine-korean"
+    ],
+    "tagIds": [
+      "balanced",
+      "whole-grain"
+    ],
+    "status": "published",
+    "instructions": [
+      {
+        "step": 1,
+        "text": "소고기와 시금치를 준비한다."
+      },
+      {
+        "step": 2,
+        "text": "소고기를 볶은 뒤 시금치를 짧게 익힌다."
+      },
+      {
+        "step": 3,
+        "text": "현미밥과 함께 담고 대파를 올린다."
+      }
+    ]
+  },
+  {
+    "id": "recipe-shrimp-garlic-skillet",
+    "title": "새우 마늘 시금치 스킬렛",
+    "description": "새우와 채소를 한 팬에 빠르게 익혀 담백하게 마무리하는 메뉴.",
+    "heroMediaUrl": null,
+    "servingCount": 1,
+    "cookingTimeMinutes": 10,
+    "difficulty": "easy",
+    "nutrition": {
+      "basis": "per_serving",
+      "quality": "estimated",
+      "source": "fixture",
+      "facts": [
+        {
+          "code": "energy",
+          "label": "Calories",
+          "value": 360,
+          "unit": "kcal"
+        },
+        {
+          "code": "protein",
+          "label": "Protein",
+          "value": 32,
+          "unit": "g"
+        },
+        {
+          "code": "carbohydrate",
+          "label": "Carbs",
+          "value": 12,
+          "unit": "g"
+        },
+        {
+          "code": "fat",
+          "label": "Fat",
+          "value": 20,
+          "unit": "g"
+        },
+        {
+          "code": "fiber",
+          "label": "Fiber",
+          "value": 5,
+          "unit": "g"
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "ingredientId": "ing-shrimp",
+        "amount": 180,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-spinach",
+        "amount": 80,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-garlic",
+        "amount": 8,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-olive-oil",
+        "amount": 8,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      }
+    ],
+    "categoryIds": [
+      "cat-weight",
+      "cat-protein",
+      "cat-quick",
+      "cuisine-western"
+    ],
+    "tagIds": [
+      "10-minutes",
+      "high-protein"
+    ],
+    "status": "published",
+    "instructions": [
+      {
+        "step": 1,
+        "text": "새우와 시금치를 손질한다."
+      },
+      {
+        "step": 2,
+        "text": "마늘을 볶은 뒤 새우를 익힌다."
+      },
+      {
+        "step": 3,
+        "text": "시금치를 넣고 빠르게 숨을 죽인다."
+      }
+    ]
+  },
+  {
+    "id": "recipe-tofu-ginger",
+    "title": "생강 두부 간장찜",
+    "description": "두부에 생강과 파 향을 더해 부담 없이 먹기 좋은 찜 요리.",
+    "heroMediaUrl": null,
+    "servingCount": 1,
+    "cookingTimeMinutes": 11,
+    "difficulty": "easy",
+    "nutrition": {
+      "basis": "per_serving",
+      "quality": "estimated",
+      "source": "fixture",
+      "facts": [
+        {
+          "code": "energy",
+          "label": "Calories",
+          "value": 300,
+          "unit": "kcal"
+        },
+        {
+          "code": "protein",
+          "label": "Protein",
+          "value": 24,
+          "unit": "g"
+        },
+        {
+          "code": "carbohydrate",
+          "label": "Carbs",
+          "value": 13,
+          "unit": "g"
+        },
+        {
+          "code": "fat",
+          "label": "Fat",
+          "value": 17,
+          "unit": "g"
+        },
+        {
+          "code": "fiber",
+          "label": "Fiber",
+          "value": 4,
+          "unit": "g"
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "ingredientId": "ing-tofu",
+        "amount": 220,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-green-onion",
+        "amount": 25,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-garlic",
+        "amount": 5,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      }
+    ],
+    "categoryIds": [
+      "cat-aging",
+      "cat-protein",
+      "cat-quick",
+      "cuisine-japanese"
+    ],
+    "tagIds": [
+      "light",
+      "steamed"
+    ],
+    "status": "published",
+    "instructions": [
+      {
+        "step": 1,
+        "text": "두부를 먹기 좋은 크기로 자른다."
+      },
+      {
+        "step": 2,
+        "text": "두부에 생강과 대파 향을 더한다."
+      },
+      {
+        "step": 3,
+        "text": "뚜껑을 덮고 짧게 익혀 간을 맞춘다."
+      }
+    ]
+  },
+  {
+    "id": "recipe-chicken-cabbage-wrap",
+    "title": "닭다리살 양배추 랩",
+    "description": "양배추 잎에 닭다리살과 채소를 담아 먹는 가벼운 한 끼.",
+    "heroMediaUrl": null,
+    "servingCount": 1,
+    "cookingTimeMinutes": 16,
+    "difficulty": "easy",
+    "nutrition": {
+      "basis": "per_serving",
+      "quality": "estimated",
+      "source": "fixture",
+      "facts": [
+        {
+          "code": "energy",
+          "label": "Calories",
+          "value": 445,
+          "unit": "kcal"
+        },
+        {
+          "code": "protein",
+          "label": "Protein",
+          "value": 36,
+          "unit": "g"
+        },
+        {
+          "code": "carbohydrate",
+          "label": "Carbs",
+          "value": 21,
+          "unit": "g"
+        },
+        {
+          "code": "fat",
+          "label": "Fat",
+          "value": 23,
+          "unit": "g"
+        },
+        {
+          "code": "fiber",
+          "label": "Fiber",
+          "value": 6,
+          "unit": "g"
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "ingredientId": "ing-chicken",
+        "amount": 160,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-cabbage",
+        "amount": 150,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-onion",
+        "amount": 40,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-garlic",
+        "amount": 5,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      }
+    ],
+    "categoryIds": [
+      "cat-weight",
+      "cat-protein",
+      "cuisine-korean"
+    ],
+    "tagIds": [
+      "low-carb",
+      "handheld"
+    ],
+    "status": "published",
+    "instructions": [
+      {
+        "step": 1,
+        "text": "닭다리살을 익히고 양배추 잎을 준비한다."
+      },
+      {
+        "step": 2,
+        "text": "양파와 마늘을 곁들여 닭고기를 마무리한다."
+      },
+      {
+        "step": 3,
+        "text": "양배추 잎에 담아 한입씩 먹는다."
+      }
+    ]
+  },
+  {
+    "id": "recipe-salmon-broccoli-bowl",
+    "title": "연어 브로콜리 레몬볼",
+    "description": "연어와 브로콜리를 레몬과 올리브오일로 간결하게 완성하는 볼 메뉴.",
+    "heroMediaUrl": null,
+    "servingCount": 1,
+    "cookingTimeMinutes": 13,
+    "difficulty": "easy",
+    "nutrition": {
+      "basis": "per_serving",
+      "quality": "estimated",
+      "source": "fixture",
+      "facts": [
+        {
+          "code": "energy",
+          "label": "Calories",
+          "value": 470,
+          "unit": "kcal"
+        },
+        {
+          "code": "protein",
+          "label": "Protein",
+          "value": 35,
+          "unit": "g"
+        },
+        {
+          "code": "carbohydrate",
+          "label": "Carbs",
+          "value": 14,
+          "unit": "g"
+        },
+        {
+          "code": "fat",
+          "label": "Fat",
+          "value": 29,
+          "unit": "g"
+        },
+        {
+          "code": "fiber",
+          "label": "Fiber",
+          "value": 8,
+          "unit": "g"
+        }
+      ]
+    },
+    "ingredients": [
+      {
+        "ingredientId": "ing-salmon",
+        "amount": 150,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-broccoli",
+        "amount": 150,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      },
+      {
+        "ingredientId": "ing-olive-oil",
+        "amount": 8,
+        "unit": "g",
+        "preparationNote": null,
+        "optional": false
+      }
+    ],
+    "categoryIds": [
+      "cat-aging",
+      "cat-protein",
+      "cat-quick",
+      "cuisine-western"
+    ],
+    "tagIds": [
+      "omega-3",
+      "low-carb"
+    ],
+    "status": "published",
+    "instructions": [
+      {
+        "step": 1,
+        "text": "연어와 브로콜리를 준비한다."
+      },
+      {
+        "step": 2,
+        "text": "팬에서 연어를 익히고 브로콜리를 곁들인다."
+      },
+      {
+        "step": 3,
+        "text": "레몬과 올리브오일로 마무리한다."
+      }
+    ]
+  }
+]

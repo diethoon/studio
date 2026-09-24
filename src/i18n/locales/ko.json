@@ -1,0 +1,48 @@
+{
+  "common": {
+    "minutesShort": "분"
+  },
+  "search": {
+    "placeholder": "음식, 재료, 먹고 싶은 것을 검색",
+    "clear": "검색어 지우기",
+    "title": "검색",
+    "results": "검색 결과",
+    "forQuery": "“{query}” 검색",
+    "noMatching": "조건에 맞는 레시피가 없습니다",
+    "startSearch": "검색을 시작해보세요",
+    "repositorySource": "결과는 현재 연결된 콘텐츠 저장소를 기준으로 합니다."
+  },
+  "home": {
+    "eyebrow": "EAT WELL / LIVE WELL",
+    "heroTitle": "오늘 만들고 싶은 음식을 찾아보세요.",
+    "heroDescription": "레시피, 영양정보, 재료를 하나의 흐름으로 찾아보세요.",
+    "explore": "Explore",
+    "recipesNow": "지금 만들기 좋은 레시피",
+    "catalogDescription": "데이터가 늘어나도 자연스럽게 확장되는 카탈로그에서 레시피와 재료를 찾아보세요.",
+    "noRecipes": "아직 레시피가 없습니다",
+    "connectRepository": "콘텐츠 저장소를 연결하면 실제 레시피가 표시됩니다.",
+    "refresh": "새로고침"
+  },
+  "recipe": {
+    "title": "레시피",
+    "notFound": "레시피를 찾을 수 없습니다",
+    "unavailable": "현재 콘텐츠 저장소에서 이 레시피를 사용할 수 없습니다.",
+    "time": "조리 시간",
+    "servings": "인분",
+    "ingredients": "재료",
+    "method": "조리 방법",
+    "nutrition": "영양정보",
+    "verified": "검증됨",
+    "estimated": "추정값",
+    "save": "찜",
+    "saved": "찜함",
+    "unsave": "찜 해제"
+  },
+  "saved": {
+    "nav": "찜",
+    "title": "찜한 레시피",
+    "description": "다시 먹고 싶은 레시피를 한곳에 모아두세요.",
+    "emptyTitle": "아직 찜한 레시피가 없습니다",
+    "emptyDescription": "마음에 드는 레시피의 하트 버튼을 눌러 찜하면 여기에서 다시 찾을 수 있습니다."
+  }
+}
